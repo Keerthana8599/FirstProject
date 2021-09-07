@@ -1,0 +1,181 @@
+
+.header-main
+{
+    text-align : center;
+    width : 100%;
+    height : 100px;
+    color : white;
+    
+
+}
+.titlehead
+{
+    font-size : 50px;
+    font-family : Times New Roman;
+    padding-bottom: -10px;
+}
+
+.Firstcar
+{
+  width : 450px;
+  height : 600px;
+text-align: center;
+padding-top:10px;
+background-color: white;
+color : black;
+margin-top : 90px;
+  
+}
+.Secondcar
+{
+    width : 450px;
+    height : 600px;
+  text-align: center;
+  padding-top:10px;
+  background-color: white;
+  color : black;
+  margin-top : 90px;
+    
+}
+
+.Thirdcar
+{
+    width : 450px;
+    height : 600px;
+  text-align: center;
+  padding-top:10px;
+  background-color: white;
+  color : black;
+  margin-top : 90px;
+    
+}
+
+
+
+.Fourthcar
+{
+    width : 450px;
+    height : 600px;
+  text-align: center;
+  padding-top:10px;
+  background-color: white;
+  color : black;
+  margin-top : 90px;
+    
+}
+
+
+.Fifthcar
+{
+    width : 450px;
+    height : 600px;
+  text-align: center;
+  padding-top:10px;
+  background-color: white;
+  color : black;
+  margin-top : 90px;
+    
+}
+
+
+
+.Sixthcar
+{
+    width : 450px;
+    height : 600px;
+  text-align: center;
+  padding-top:10px;
+  background-color: white;
+  color : black;
+  margin-top : 90px;
+    
+}
+
+.imgone
+{
+    padding-top : 10px;
+    width : 450px;
+    height : 400px;
+}
+.imgtwo
+{
+    padding-top : 10px;
+    width : 450px;
+    height : 400px;
+}
+.imgthree
+{
+    padding-top : 10px;
+    width : 450px;
+    height : 400px;
+}
+.imgfourth
+{
+    padding-top : 10px;
+    width : 450px;
+    height : 400px;
+}
+.imgfifth
+{
+    padding-top : 10px;
+    width : 450px;
+    height : 400px;
+}
+.imgsixth
+{
+    padding-top : 10px;
+    width : 450px;
+    height : 400px;
+}
+.imgonename
+{
+    color : black;
+}
+.imgtwoname
+{
+    color : blue;
+}
+.imgthreename
+{
+    color : black;
+}
+.imgfourthname
+{
+    color : black;
+}
+.imgfifthname
+{
+    color : Navy;
+}
+.imgsixthname
+{
+    color : black;
+}
+body
+{
+    background-color: rgb(134, 143, 137);
+}
+p{
+    font-size: 25px;
+    color : black;
+    padding-top : -40px;
+}
+.car{
+
+    display : flex;
+    gap : 40px;
+    margin-left: 30px;
+
+}
+.secondrow
+{
+        display : flex;
+        gap : 40px;
+        margin-left: 30px;
+}
+.contact
+{
+    color : black;
+    text-align : center;
+
+}
